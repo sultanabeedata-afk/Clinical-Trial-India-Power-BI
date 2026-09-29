@@ -1,5 +1,4 @@
-Clinical Trials in India (2001-2026), PowerBI Analysis
-PowerBI projects
+Clinical Trials in India (2001-2026)
 Clinical Trials in India - Power BI Analytics
 Overview
 This project analyzes clinical trials conducted in India from 2001 to Q1 2026, focusing on study characteristics, intervention categories, participant demographics, and geographic distribution.
